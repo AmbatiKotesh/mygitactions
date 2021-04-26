@@ -1,5 +1,6 @@
 # This is a basic workflow to help you get started with Actions 
 # Just added this comment
+# Added line to find out the .NET version
 
 name: Adam Work Flow
 
@@ -58,6 +59,8 @@ jobs:
           df
           echo 10. What environment variables are avaialable?
           env
+          echo 11. Kotesh Added: Dotnet version 
+          dotnet --version
           
           
           
