@@ -3,7 +3,7 @@
 name: Getting Started
 
 # Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the main branch
+# events but only for the main branch 1
 on:
   push:
     branches: [ change-to-main ]
